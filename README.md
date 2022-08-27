@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Bootstrap, React, Nodejs, and MongoDB through Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program.
 
-🔭 I’m currently working on a learning management system app that will reinforce positive behaviors and expectations for educators in the classroom.
+🔭 I’m developing on a learning management system app that will reinforce positive behaviors and expectations for educators in the classroom.
 
 💬 Ask me about my passion for open source and my aspirations to ensure that everyone has access to an engaging and quality education.
 
