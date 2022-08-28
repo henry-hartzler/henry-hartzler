@@ -1,4 +1,4 @@
-![Henry_Hartzler_Software_Dev_Banner](https://user-images.githubusercontent.com/96813969/187098763-99d5b327-22fd-48eb-a741-66003cdd6382.png)
+![Software_Dev_Banner](https://user-images.githubusercontent.com/96813969/187098827-7a9d46a7-4437-4c64-b9cb-6ea7a91c986d.png)
 ## Hey there! I'm Henry, a Software Developer :computer:
 
 🌱 I’m currently learning Bootstrap, React, NodeJS, and MongoDB through Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program.
