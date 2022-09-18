@@ -1,7 +1,7 @@
 ![Software_Dev_Banner](https://user-images.githubusercontent.com/96813969/187098827-7a9d46a7-4437-4c64-b9cb-6ea7a91c986d.png)
 ## Hey there! I'm Henry, a Software Developer :computer:
 
-🌱 I’m currently learning Bootstrap, React, React Native, Node.js, and MongoDB through Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program.
+🌱 I’m currently learning Bootstrap, React, Node.js, and MongoDB through Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program.
 
 🔭 I’m developing on a learning management system app that will reinforce positive behaviors and expectations for educators in the classroom.
 
