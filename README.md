@@ -5,6 +5,8 @@
 
 🔭 I’m developing on a learning management system app that will reinforce positive behaviors and expectations for educators in the classroom.
 
+📱 Using React Native, I'm also building a climbing app that serves as both a guide and logbook.
+
 💬 Ask me about my passion for open source and my aspirations to ensure that everyone has access to an engaging and quality education.
 
 📫 Message me on LinkedIn to learn more!
