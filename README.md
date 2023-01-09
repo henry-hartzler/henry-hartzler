@@ -1,7 +1,7 @@
 ![developerbdackground](https://user-images.githubusercontent.com/96813969/196090532-4b38aa1f-973b-4022-a810-3e29667c86c0.png)
 ## Hey there! I'm Henry, a Software Developer :computer:
 
-🎓 I graduated with honors from Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program with a focus in React, React Native, Node.js, Express, and MongoDB.
+🎓 I graduated with Honors from Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program with a focus in React, React Native, Node.js, Express, and MongoDB.
 
 🌱 I’m currently learning to use C# and MSSQL Server for my current job as a Software Engineer.
 
