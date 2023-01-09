@@ -5,7 +5,7 @@
 
 🌱 I’m learning to use C# and MSSQL Server for my current job as a Software Engineer.
 
-🔭 I’m developing on a learning management system app that will reinforce positive behaviors and expectations for educators in the classroom.
+🔭 I’m developing on a learning management system app that will reinforce positive behaviors for students in the classroom.
 
 📱 Using React Native, I'm also building a climbing app that serves as both a guide and logbook.
 
