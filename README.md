@@ -3,7 +3,7 @@
 
 🎓 I graduated with Honors from Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program with a focus in React, React Native, Node.js, Express, and MongoDB.
 
-🌱 I’m learning to use C# and MSSQL Server for my current job as a Software Engineer.
+🌱 I’m learning to use TypeScript, C#, MSSQL Server for my current job as a Software Engineer.
 
 🔭 I’m developing on a learning management system app that will reinforce positive behaviors for students in the classroom.
 
