@@ -11,7 +11,7 @@
 
 🔭 Additionally, I'm learning best practices for TypeScript, C#, MSSQL Server for my current job as a Software Engineer.
 
-📱 Using React Native, I'm built a clone of the popular climbing app, Kaya, that serves as both a guide and logbook.
+📱 Using React Native, I built a clone of the popular climbing app, Kaya, that serves as both a guide and logbook.
 
 💬 Ask me about my passion for open source and my aspirations to ensure that everyone has access to an engaging and quality education.
 
