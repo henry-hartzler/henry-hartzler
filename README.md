@@ -3,7 +3,7 @@
 
 🎓 I'm wrapping up my final courses for my Master of Science in Data Science at Eastern University. 
 
-🌱 I’m currently learning Python for Data Science with an emphasis on Machine Learning and Natural Language Processing.
+🌱 I’m currently using Python for Data Science with an emphasis on Machine Learning and Natural Language Processing.
     
 🎓 Previously, I graduated with Honors from Nucamp Coding Bootcamp's Full Stack Web + Mobile Development Program with a focus in React, React Native, Node.js, Express, and MongoDB.
 
