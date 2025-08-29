@@ -1,7 +1,7 @@
 ![developerbdackground](https://user-images.githubusercontent.com/96813969/196090532-4b38aa1f-973b-4022-a810-3e29667c86c0.png)
 ## Hey there! I'm Henry, a Software Engineer :computer:
 
-🎓 I'm wrapping up my final courses for my Master of Science in Data Science at Eastern University. 
+🎓 I graduated with a Master of Science in Data Science at Eastern University, specializing in ML and NLP. 
 
 🌱 I’m currently using Python for Data Science with an emphasis on Machine Learning and Natural Language Processing.
     
